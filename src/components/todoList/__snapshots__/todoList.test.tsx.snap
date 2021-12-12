@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TodoList 1`] = `
+<div>
+  <div
+    class="todo-list"
+  >
+    <div
+      class="todo-item"
+    >
+      <span>
+        1
+        . 
+      </span>
+      <input
+        placeholder="Title"
+        type="text"
+        value="todo 1"
+      />
+    </div>
+    <div
+      class="todo-item"
+    >
+      <span>
+        2
+        . 
+      </span>
+      <input
+        placeholder="Title"
+        type="text"
+        value="todo 2"
+      />
+    </div>
+  </div>
+</div>
+`;

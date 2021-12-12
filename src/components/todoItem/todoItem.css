@@ -1,0 +1,13 @@
+.todo-item {
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.todo-item span {
+  font-size: 12px;
+  min-width: 20px;
+}
+.todo-item input {
+
+}

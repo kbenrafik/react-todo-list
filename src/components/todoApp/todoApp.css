@@ -1,0 +1,31 @@
+.todo-app {
+  border: 1px solid black;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  border-bottom: 1px solid black;
+  background: #e8f3fe;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+.header .h1 {
+    color: #2aa7f3;
+    font-size: 20px;
+}
+
+.header__right button {
+    background: #e9b7c6;
+    border: none;
+    color: black;
+    min-width: 100px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.header__right button:first-child {
+    margin-right: 10px;
+}
